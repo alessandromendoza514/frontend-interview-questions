@@ -17,3 +17,4 @@ Notes and usage details for frontend-interview-questions.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
